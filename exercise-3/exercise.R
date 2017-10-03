@@ -3,7 +3,8 @@
 # Create a vector `marbles` with 6 different colors in it (representing marbles)
 
 
-# Use the `sample` function to select a single marble
+# Use the `sample` function to select a single random marble
+# You may have to read documentation for 'sample'
 
 
 # Write a function MarbleGame that does the following:
@@ -18,5 +19,7 @@
 # Bonus: Play the marble game until you win, keeping track of how many tries you take
 
 
-## Double bonus(answer not provided): play the game 1000X (until you win) and track the average number of tries
-# Is it what you expected based on the probability
+## Double bonus(answer not provided): play the game 1000X (until you win) and track the average number of
+## tries
+
+## Is it what you expected based on the probability?
