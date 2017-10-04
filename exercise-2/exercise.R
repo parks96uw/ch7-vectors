@@ -10,13 +10,16 @@
 # `x` and `y` (note the recycling!)
 
 
-# Create a vector `first.three` that has the first three elements of `z` in it
+## Create a vector `first.three` that has the first three elements of `z` in it.
+## Use (positional) indexing!
 
 
-# Create a vector `small` that has the values of `z` that are less than 5
+## Create a vector `small` that has the values of `z` that are less than 5
+## Use logical indexing!
 
 
-# Create a vector `large` that has the values of `z` that are greater than or equal to 5
+## Create a vector `large` that has the values of `z` that are greater than or equal to 5
+## Use logical indexing!
 
 
 ### Bonus ###
